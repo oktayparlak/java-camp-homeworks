@@ -4,21 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ad16fb-191a-408f-b338-4c12bf95a026" name="Changes" comment="First homework completed">
-      <change afterPath="$PROJECT_DIR$/day2Homework2/day2Homework2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/inheritance/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/inheritance/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/inheritance/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/inheritance/PersonManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/interfaces/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/interfaces/ICustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/interfaces/MySqlCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/interfaces/OracleCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/methodOverloading/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/methods/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2Homework2/src/methods2/Methods.java" afterDir="false" />
+    <list default="true" id="b6ad16fb-191a-408f-b338-4c12bf95a026" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day3Homework3/day3Homework3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/CategoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/InstructorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/EMailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/interfaces/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/interfaces/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/interfaces/InstructorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/entities/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/entities/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/entities/Instructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,6 +57,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -71,7 +75,10 @@
       <workItem from="1663846956839" duration="783000" />
       <workItem from="1664147687711" duration="287000" />
       <workItem from="1664191346346" duration="1984000" />
-      <workItem from="1664234481640" duration="658000" />
+      <workItem from="1664234481640" duration="1485000" />
+      <workItem from="1664971096444" duration="17000" />
+      <workItem from="1664992462787" duration="2000" />
+      <workItem from="1665257956154" duration="3453000" />
     </task>
     <task id="LOCAL-00001" summary="First homework completed">
       <created>1663527760556</created>
@@ -80,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663527760556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 2 homework 2 completed">
+      <created>1664235293891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664235293891</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +103,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="2c484097-ae5d-4dee-8cb7-f88577237984">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Oktay/IdeaProjects/javaHomeworks/day1Homework2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -96,9 +135,15 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2c484097-ae5d-4dee-8cb7-f88577237984" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First homework completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="First homework completed" />
+    <MESSAGE value="day 2 homework 2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2 homework 2 completed" />
   </component>
 </project>
