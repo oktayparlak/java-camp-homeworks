@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ad16fb-191a-408f-b338-4c12bf95a026" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day3Homework3/day3Homework3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/CategoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/CourseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/InstructorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/EMailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logger/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/interfaces/CategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/interfaces/CourseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/interfaces/InstructorDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/entities/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/entities/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3Homework3/src/entities/Instructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="b6ad16fb-191a-408f-b338-4c12bf95a026" name="Changes" comment="day 3 homework 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +62,8 @@
       <workItem from="1664234481640" duration="1485000" />
       <workItem from="1664971096444" duration="17000" />
       <workItem from="1664992462787" duration="2000" />
-      <workItem from="1665257956154" duration="3453000" />
+      <workItem from="1665257956154" duration="4321000" />
+      <workItem from="1665332512152" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="First homework completed">
       <created>1663527760556</created>
@@ -94,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664235293891</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day 3 homework 3">
+      <created>1665263805256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665263805256</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First homework completed" />
     <MESSAGE value="day 2 homework 2 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 2 homework 2 completed" />
+    <MESSAGE value="day 3 homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 homework 3" />
   </component>
 </project>
