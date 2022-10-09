@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6ad16fb-191a-408f-b338-4c12bf95a026" name="Changes" comment="day 3 homework 3">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/CategoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/business/InstructorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logging/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logging/EMailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logging/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/core/logging/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/category/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/category/HibernateCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/category/JdbcCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/course/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/course/HibernateCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/course/JdbcCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/instructor/HibernateInstructorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/instructor/InstructorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3Homework3/src/dataAccess/instructor/JdbcInstructorDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3Homework3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/day3Homework3/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +82,7 @@
       <workItem from="1664992462787" duration="2000" />
       <workItem from="1665257956154" duration="4321000" />
       <workItem from="1665332512152" duration="8000" />
+      <workItem from="1665342568495" duration="2538000" />
     </task>
     <task id="LOCAL-00001" summary="First homework completed">
       <created>1663527760556</created>
@@ -86,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665263805256</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 3 homework 3">
+      <created>1665342605037</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665342605037</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
